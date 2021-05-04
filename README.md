@@ -15,4 +15,4 @@ The purpose of this project was to use SQLite and SQLAlchemy to gather temperatu
 
 ## Summary
 
-Overall, the results show that the temperature BLAH. Two queries I would do for more information would include any weather data (sunny, rain, etc.) or specific days to see if there are any days that are warmer/colder than others.
+Overall, the results show that the temperature stays constant throughout the year and that opening a surf and ice cream shop could have some potential. Two queries I would do for more information would include any weather data (sunny, rain, etc.) or specific days to see if there are any days that are warmer/colder than others.
